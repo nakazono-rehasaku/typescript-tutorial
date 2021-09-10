@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nakazono-rehasaku/typescript-tutorial#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   }
 }
